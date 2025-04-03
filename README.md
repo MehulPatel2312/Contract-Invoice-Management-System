@@ -98,6 +98,3 @@ This project was developed entirely by Mehul Patel from scratch. No external con
 This project does not include a license.
 
 ---
-
-Feel free to update this file as your project evolves! 🚀
-
