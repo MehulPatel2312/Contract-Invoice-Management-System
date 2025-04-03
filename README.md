@@ -71,11 +71,6 @@ ALLOWED_FILE_TYPES=image/jpeg,image/jpg,image/png
 
 ---
 
-## 📸 Screenshots/Demos
-Screenshots and demo links will be provided separately.
-
----
-
 ## 🔑 Roles & Permissions
 - **Admin:** Full access (manage users, contracts, and invoices).
 - **User:** Can only create and view contracts/invoices. No edit or delete permissions.
